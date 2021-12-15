@@ -76,11 +76,7 @@ The classification report was generated for the best estimator.
 
 The model performances were evaluated using Accuracies, Cross Validation scores, F1 scores and Precision and compared using bar plots.
 
-                               Fig 1: Comparing Accuracies                                                           Fig 2: Comparing mean Cross Validation scores 
-                         
-                                Fig 3: Comparing F1 scores                                                                           Fig 4: Comparing Precision   	
-
-We can observe in the above plots that Random-Forest Classifier was the best model since it performed the best in all scoring measures. 
+We can observe in the  plots that Random-Forest Classifier was the best model since it performed the best in all scoring measures. 
 
 **8.0	References**
 1.	https://machinelearningmastery.com/
